@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Daniel, a Software Developer from Ireland, currently based in London.
 
-Full Stack Engineer, with a
+Front End Developer, with a
 focus on JavaScript tech stack
 
 <img align="right" alt="illustration of web developer with laptop" src="./images/giphy.gif" width="500" height="340" />
