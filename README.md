@@ -6,7 +6,6 @@ focus on JavaScript tech stack
 <img align="right" alt="illustration of web developer with laptop" src="./images/giphy.gif" width="500" height="340" />
 
 ### What I'm doing now
-- 💻 I'm currently working on Safe Space, a video chat app set in a 3D virtual world
 - 🌱 I’m currently learning [Three.js](https://threejs.org/) from [@Bruno Simon](https://threejs-journey.xyz/)
 
 <br/>
