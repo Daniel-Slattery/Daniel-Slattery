@@ -12,7 +12,7 @@ focus on JavaScript tech stack
 
 ### Favourite Technologies:
 
-[<img align="left" alt="typescript logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png"/>][javascript]
+[<img align="left" alt="typescript logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>][javascript]
 [<img align="left" alt="react native logo" width="40px" src="https://reactnative.dev/img/header_logo.svg"/>][reactnative]
 [<img align="left" alt="redux logo" width="40px" src="https://redux.js.org/img/redux.svg"/>][redux]
 [<img align="left" alt="mongoDB logo" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>][mongodb]
