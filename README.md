@@ -20,11 +20,6 @@ focus on JavaScript tech stack
 
 <br/>
 <br/>
-Can't wait to get my hands on:
-
-[Solidity](https://github.com/ethereum/solidity)
-<br/>
-<br/>
 
 ### Outside of coding, I'm passionate about:
 
@@ -33,8 +28,6 @@ Can't wait to get my hands on:
 💪 Fitness
 📈 Trading
 
-Wanna know more? <br>
---> [Linkedin](https://www.linkedin.com/in/daniel-s-dev/)
 
 Checkout my Github stats 😊 <br>
 
