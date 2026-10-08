@@ -5,7 +5,7 @@
 I build fast, accessible commerce experiences used by millions, and I ship them with AI agents as part of my everyday workflow.
 
 <p align="center">
-  <img alt="Animated terminal: Daniel pair-programming with Claude Code, shipping a tested, accessible basket feature" src="./images/hero.svg" width="100%" />
+  <img alt="Animated terminal: Daniel pair-programming with GitHub Copilot CLI, shipping a tested, accessible basket feature" src="./images/hero.svg" width="100%" />
 </p>
 
 ### 🛠️ What I'm doing now
